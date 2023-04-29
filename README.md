@@ -59,7 +59,7 @@
   </a>
 </p>
 
-## :trophy: My Github Status
+## :trophy: My GitHub Status
 [![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitesh-ko&locale=en&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mitesh-ko)
 
 [![Mitesh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mitesh-ko&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/mitesh-ko)
