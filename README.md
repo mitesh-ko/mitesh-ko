@@ -2,14 +2,14 @@
 
 - 🔭 I’m currently working on projects Laravel CRM and Customer Feedback Application/Management
 - 👀 I’m interested in coding in PHP, Python, JavaScript and their respective frameworks
-- 🌱 I’m currently learning on improving my project development design patterns
+- 🌱 I’m currently learning to improve my project development design patterns
 - 👯 I’m looking to collaborate on a POS Project
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="padding-left:50px;">
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel" width="40" height="40" />
+      alt="Laravel" width="40" height="40" />
   </a>
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
@@ -58,8 +58,5 @@
     <img src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg" alt="phpstorm" width="40" height="40" />
   </a>
 </p>
-
-## :trophy: My GitHub Status
-[![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitesh-ko&locale=en&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/mitesh-ko)
 
 [![Mitesh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mitesh-ko&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/mitesh-ko)
