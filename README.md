@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mitesh</h1>
+<h3 align="center">Skilled Software Engineer: Crafting Exceptional Apps</h3>
 
-- 🔭 I’m currently working on projects CRM and Customer Feedback Application/Management
-- 👀 I’m interested in coding in Laravel, Python, JavaScript and their respective frameworks
-- 🌱 I’m currently learning to improve my project development design patterns
-- 👯 I’m looking to collaborate on a POS Project
+- 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="padding-left:50px;">
