@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh</h1>
 <h3 align="center">Skilled Software Engineer: Crafting Exceptional Apps</h3>
 
-- 💬 Ask me about **Laravel, PHP, Databases, React, Vue**
+- 💬 Ask me about **Laravel, PHP, Express, Node, Databases, React, Vue**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="padding-left:50px;">
